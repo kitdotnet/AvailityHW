@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LispParenCheck", "LispParenCheck\LispParenCheck.csproj", "{7503C9E2-6032-4389-9706-988CD4D480DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LispParenCheckTests", "LispParenCheckTests\LispParenCheckTests.csproj", "{8AF06968-BEEB-4D58-92B8-41E5F65C705F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7503C9E2-6032-4389-9706-988CD4D480DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7503C9E2-6032-4389-9706-988CD4D480DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7503C9E2-6032-4389-9706-988CD4D480DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7503C9E2-6032-4389-9706-988CD4D480DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF06968-BEEB-4D58-92B8-41E5F65C705F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF06968-BEEB-4D58-92B8-41E5F65C705F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF06968-BEEB-4D58-92B8-41E5F65C705F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF06968-BEEB-4D58-92B8-41E5F65C705F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7309534E-94A6-44E2-924F-BB04467DF2B2}
+	EndGlobalSection
+EndGlobal
