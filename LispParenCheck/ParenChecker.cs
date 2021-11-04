@@ -2,6 +2,7 @@
 
 namespace LispParenCheck
 {
+    //NB: https://www.tutorialspoint.com/execute_lisp_online.php was a helpful resource for this exercise.
     public class ParenChecker
     {
         /// <summary>
